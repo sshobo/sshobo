@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate full-stack developer from London.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Node.js**
 
 - 💬 Ask me about **Ruby, Rails, HTML, Bootstrap and CSS**
 
